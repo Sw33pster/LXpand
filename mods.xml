@@ -308,4 +308,21 @@
 </mod>
 
 
+<mod>
+
+	<name>
+		Jalapeno
+	</name>
+
+	<type>
+		Food
+	</type>
+
+	<description>
+		Food is item that can be eaten and can give you potion effect.
+	</description>
+
+</mod>
+
+
 </mods>
